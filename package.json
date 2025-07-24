@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is Kav getting into THE ERA",
+  "scripts": {
+    "start" : "parcel index.html",
+    "build" : "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/KavyaSharma112/Namaste-React.git)"
+  },
+  "author": "Kavya Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browsersList" : [
+    "last 2 versions"
+  ]
+}
